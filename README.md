@@ -1,0 +1,1 @@
+# capacitor-allow-navigation
