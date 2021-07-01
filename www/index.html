@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Capacitor placeholder</title>
+    <script>
+        function hrefRedirect() {
+            window.location.href = "https://www.google.com/";
+        }
+
+        function assignRedirect() {
+            window.location.assign("https://www.google.com/");
+        }
+
+        function replaceRedirect() {
+            window.location.replace("https://www.google.com/");
+        }
+    </script>
+  </head>
+  <body>
+    <a href="https://www.google.com/">redirect with link</a>
+    <button onclick="hrefRedirect()">redirect with location.href</button>
+    <button onclick="assignRedirect()">redirect with location.assign</button>
+    <button onclick="replaceRedirect()">redirect with location.replace</button>
+  </body>
+</html>
