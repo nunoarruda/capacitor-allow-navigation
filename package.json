@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/nunoarruda/capacitor-allow-navigation#readme",
   "dependencies": {
-    "@capacitor/core": "^3.0.2"
+    "@capacitor/core": "^3.0.2",
+    "@capacitor/ios": "^3.0.2"
   },
   "devDependencies": {
     "@capacitor/cli": "^3.0.2"
