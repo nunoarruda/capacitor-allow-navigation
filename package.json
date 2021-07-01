@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nunoarruda/capacitor-allow-navigation/issues"
   },
-  "homepage": "https://github.com/nunoarruda/capacitor-allow-navigation#readme"
+  "homepage": "https://github.com/nunoarruda/capacitor-allow-navigation#readme",
+  "dependencies": {
+    "@capacitor/core": "^3.0.2"
+  }
 }
