@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.antest",
+	"appName": "capacitor-allow-navigation",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
