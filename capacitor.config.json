@@ -2,5 +2,8 @@
   "appId": "com.example.antest",
   "appName": "capacitor-allow-navigation",
   "webDir": "www",
-  "bundledWebRuntime": false
+  "bundledWebRuntime": false,
+  "server": {
+    "allowNavigation": ["*.google.com"]
+  }
 }
